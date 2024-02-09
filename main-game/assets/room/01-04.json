@@ -1,0 +1,507 @@
+{
+  "roomID": "01-04",
+  "roomName": "NPC house",
+  "specialTiles": [
+    {
+      "x": 12,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 13,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 14,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 15,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 16,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 17,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 18,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 4,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 5,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 6,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 7,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 8,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 14,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 15,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 16,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 17,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 18,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 1,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 2,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 3,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 4,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 5,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 6,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 7,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 8,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 9,
+      "type": "terrain"
+    },
+    {
+      "x": 18,
+      "y": 9,
+      "type": "terrain"
+    },
+    {
+      "x": 18,
+      "y": 10,
+      "type": "terrain"
+    },
+    {
+      "x": 17,
+      "y": 9,
+      "type": "terrain"
+    },
+    {
+      "x": 17,
+      "y": 10,
+      "type": "terrain"
+    },
+    {
+      "x": 18,
+      "y": 10,
+      "type": "terrain"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "type": "terrain"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "type": "terrain"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "type": "terrain"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "type": "terrain"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "type": "terrain"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "type": "terrain"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "type": "terrain"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "type": "terrain"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "type": "terrain"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "type": "terrain"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "type": "terrain"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "type": "terrain"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "type": "terrain"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "type": "terrain"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "type": "terrain"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "type": "terrain"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "type": "terrain"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "type": "terrain"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "type": "terrain"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "type": "terrain"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "type": "terrain"
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "type": "terrain"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "type": "terrain"
+    },
+    {
+      "x": 11,
+      "y": 1,
+      "type": "terrain"
+    },
+    {
+      "x": 14,
+      "y": 3,
+      "type": "terrain"
+    },
+    {
+      "x": 14,
+      "y": 4,
+      "type": "terrain"
+    },
+    {
+      "x": 15,
+      "y": 4,
+      "type": "terrain"
+    },
+    {
+      "x": 15,
+      "y": 3,
+      "type": "terrain"
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "type": "npc",
+      "dialogue": "what are you doing in my house"
+    },
+    {
+      "x": 17,
+      "y": 3,
+      "type": "npc",
+      "dialogue": "please get out"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "type": "npc",
+      "dialogue": "u want some pancakes?"
+    },
+    {
+      "x": 11,
+      "y": 11,
+      "type": "transition",
+      "dialogue": "",
+      "destinationRoomID": "01-03"
+    },
+    {
+      "x": 10,
+      "y": 11,
+      "type": "transition",
+      "dialogue": "",
+      "destinationRoomID": "01-03"
+    },
+    {
+      "x": 9,
+      "y": 11,
+      "type": "transition",
+      "dialogue": "",
+      "destinationRoomID": "01-03"
+    },
+    {
+      "x": 19,
+      "y": 10,
+      "type": "terrain",
+      "dialogue": "",
+      "destinationRoomID": ""
+    }
+  ]
+}

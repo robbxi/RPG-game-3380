@@ -1,0 +1,36 @@
+{
+  "roomData": {
+     "room": "05-07",
+     "roomInfo": "e63e3e42e1e52e3e17e3e17e3e22e1e13",
+     "specialTiles": [
+        [
+           "chest-002",
+           true,
+           7,
+           5
+        ],
+        [
+          "npc-002",
+          true,
+          7,
+          9
+       ]
+     ],
+     "transitionTiles": [
+        [
+           "05-06",
+           6,
+           0,
+           6,
+           11
+        ],
+        [
+          "05-08",
+          19,
+          7,
+          0,
+          7
+        ]
+     ]
+  }
+}

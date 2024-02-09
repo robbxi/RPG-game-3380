@@ -1,0 +1,398 @@
+{
+  "roomID": "01-02",
+  "roomName": "cave with chests and battle",
+  "specialTiles": [
+    {
+      "x": 5,
+      "y": 5,
+      "type": ""
+    },
+    {
+      "x": 19,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 10,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 9,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 8,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 7,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 6,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 5,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 4,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 3,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 2,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 1,
+      "type": "terrain"
+    },
+    {
+      "x": 18,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 19,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 18,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 17,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 16,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 15,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 14,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "type": "terrain"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 4,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 5,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 6,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 7,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 8,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 12,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 13,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 14,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 15,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 16,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 17,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 18,
+      "y": 11,
+      "type": "terrain"
+    },
+    {
+      "x": 18,
+      "y": 1,
+      "type": "terrain"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "type": "terrain"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "type": "terrain"
+    },
+    {
+      "x": 18,
+      "y": 10,
+      "type": "terrain"
+    },
+    {
+      "x": 17,
+      "y": 2,
+      "type": "chest",
+      "contents": [
+        "10-gold"
+      ]
+    },
+    {
+      "x": 16,
+      "y": 2,
+      "type": "chest",
+      "contents": [
+        "10-gold"
+      ]
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "type": "chest",
+      "contents": [
+        "10-gold"
+      ]
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "type": "chest",
+      "contents": [
+        "10-gold"
+      ]
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "type": "chest",
+      "contents": [
+        "10-gold"
+      ]
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "type": "chest",
+      "contents": [
+        "10-gold"
+      ]
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "type": "encounter",
+      "contents": [
+        "uh oh"
+      ]
+    },
+    {
+      "x": 11,
+      "y": 11,
+      "type": "transition",
+      "contents": [],
+      "destinationRoomID": "01-01"
+    },
+    {
+      "x": 10,
+      "y": 11,
+      "type": "transition",
+      "contents": [],
+      "destinationRoomID": "01-01"
+    },
+    {
+      "x": 9,
+      "y": 11,
+      "type": "transition",
+      "contents": [],
+      "destinationRoomID": "01-01"
+    }
+  ]
+}

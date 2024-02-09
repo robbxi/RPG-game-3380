@@ -1,0 +1,7 @@
+{
+  "currentRoomId":"05-05",
+  "completed": ["tutorial", "boss_1", "chest_1"],
+  "inventory": ["1-hp_pot", "1-rock"],
+  "playerX": 6,
+  "playerY": 6
+}

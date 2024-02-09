@@ -1,0 +1,15 @@
+{
+  "enemies": [
+    {
+      "id": "BerryWizard"
+    },
+    {
+      "id": "wolf"
+    },
+    {
+      "id": "wolf"
+    }
+  ],
+  "conditions": ["rain", "night"],
+  "keyReward": false
+}

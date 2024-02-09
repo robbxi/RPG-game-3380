@@ -1,0 +1,37 @@
+[
+  {
+    "roomId": "01-01",
+    "narrationLines": [
+      "Welcome to Project Fox!\nPress Space to advance the dialogue.",
+      "Fen the Fox lives in Berrywood, where, until now,\nanimals and fruit have lived in harmony.",
+      "The animals have their physical prowess, and fruits\nhave their magical powers.",
+      "With their physical strength and magic combined,\nThe fruit and animals have been prosperous.",
+      "But now, an evil wizard has cursed the fruits and taken control of them.\nAnd he's using them to capture the animals!",
+      "Fen, the only warrior who hasn't been captured, has risen to the challenge!",
+      "Use the directional keys or WASD to move around,\nand press Space to interact with things.",
+      "Also, players, remember! Click both shift and p to save game,\nand click both shift and enter to load your saved game! ",
+      "Press U any time to replay the narration for the current area.",
+      "Now go and stop that wizard, save the animals and cursed fruits,\nand don't forget to have fun!"
+    ]
+  },
+  {
+    "roomId": "01-02",
+    "narrationLines": [
+      "Isn't that the wizard's castle? Be careful! He's powerful!\nThat monkey up ahead may be able to help!"
+    ]
+  },
+  {
+    "roomId": "01-03",
+    "narrationLines": [
+      "Oh no! The wizard has some of his mind-controlled minions guarding\nthe keys to the stairway.",
+      "Defeat them to get upstairs to stop the wizard!"
+    ]
+  },
+  {
+    "roomId": "01-04",
+    "narrationLines": [
+      "Look it's the wizard! Defeat him in order to win the game!",
+      "He has to be stopped! It's all up to you, Fen!"
+    ]
+  }
+]

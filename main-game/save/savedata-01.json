@@ -1,0 +1,31 @@
+{
+  "WorldData": {
+    "Players": [
+      {
+        "Inventory": [],
+        "Keys": 0,
+        "facing": "right",
+        "id": "player-01",
+        "x": 7,
+        "y": 5
+      }
+    ],
+    "Rooms": [
+      {
+        "room": "01-01",
+        "roomInfo": "e11w10e11w7e1w1e14w2e3w1e1w3e15w1e19w2e18w2e15w1e2w2e1w1e16w2e1w1e16w5e8w3e4w6e7w3e4w7e13",
+        "specialTiles": [],
+        "transitionTiles": [
+          [
+            "01-02",
+            19,
+            7,
+            0,
+            6
+          ]
+        ]
+      }
+    ],
+    "currentRoomId": "01-01"
+  }
+}

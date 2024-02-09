@@ -1,0 +1,12 @@
+{
+    "enemies": [
+      {
+        "id": "BlueBerry"
+      },
+      {
+        "id": "WildBerry"
+      }
+      ],
+      "conditions": ["rain", "night"],
+      "keyReward": true
+}

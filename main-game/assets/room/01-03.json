@@ -1,0 +1,909 @@
+{
+  "roomID": "01-03",
+  "roomName": "Forest Clearing",
+  "specialTiles": [
+    {
+      "x": 0,
+      "y": 9,
+      "type": "transition tile",
+      "destinationRoomID": "01-01",
+      "dialogue": ""
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "type": "transition tile",
+      "destinationRoomID": "01-01",
+      "dialogue": ""
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "type": "transition tile",
+      "destinationRoomID": "01-01",
+      "dialogue": ""
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "type": "transition tile",
+      "destinationRoomID": "01-01",
+      "dialogue": ""
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "type": "transition tile",
+      "destinationRoomID": "01-01",
+      "dialogue": ""
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "type": "transition tile",
+      "destinationRoomID": "01-01",
+      "dialogue": ""
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "type": "transition tile",
+      "destinationRoomID": "01-01",
+      "dialogue": ""
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "type": "transition tile",
+      "destinationRoomID": "01-01",
+      "dialogue": ""
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "type": "transition tile",
+      "destinationRoomID": "01-01",
+      "dialogue": ""
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 4,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 5,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 6,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 7,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 8,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 9,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 9,
+      "y": 10,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 9,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 10,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 11,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 12,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 13,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 14,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 14,
+      "y": 10,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 15,
+      "y": 10,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 15,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 14,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 13,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 13,
+      "y": 10,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 14,
+      "y": 10,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 15,
+      "y": 10,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 15,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 16,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 17,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 18,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 19,
+      "y": 11,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 19,
+      "y": 10,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 19,
+      "y": 9,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 18,
+      "y": 9,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 18,
+      "y": 10,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 18,
+      "y": 9,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 18,
+      "y": 8,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 19,
+      "y": 8,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 19,
+      "y": 7,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 19,
+      "y": 6,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 18,
+      "y": 6,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 18,
+      "y": 7,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 17,
+      "y": 7,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 17,
+      "y": 6,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 18,
+      "y": 6,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 18,
+      "y": 5,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 18,
+      "y": 4,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 18,
+      "y": 3,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 17,
+      "y": 3,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 18,
+      "y": 3,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 18,
+      "y": 2,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 19,
+      "y": 1,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 19,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 18,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 19,
+      "y": 1,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 19,
+      "y": 2,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 19,
+      "y": 3,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 19,
+      "y": 4,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 19,
+      "y": 5,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 19,
+      "y": 4,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 19,
+      "y": 3,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 19,
+      "y": 2,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 19,
+      "y": 1,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 18,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 17,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 16,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 15,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 14,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 14,
+      "y": 4,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 14,
+      "y": 5,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 14,
+      "y": 4,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 14,
+      "y": 3,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 14,
+      "y": 2,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 14,
+      "y": 2,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 14,
+      "y": 3,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 15,
+      "y": 3,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 12,
+      "y": 8,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "type": "transition",
+      "destinationRoomID": "01-04",
+      "dialogue": ""
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "type": "npc",
+      "destinationRoomID": "",
+      "dialogue": "funny seeing you here"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "type": "terrain",
+      "destinationRoomID": "",
+      "dialogue": ""
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+   "roomData": {
+      "room": "01-03",
+      "roomInfo": "w18e1w19e1w2e16w1e1w2e16w1e1w2e16w1e1w2e16w1e1w2e16w1e1w2e7e1e2e1e5e1e1w2e18w2e18w3e16w11e2w9",
+      "specialTiles": [
+         ["chest-003",
+         true,
+         1,
+         2
+
+         ],
+         [
+            "battle-003",
+            false,
+            9,
+            3
+         ],
+         [
+            "battle-004",
+            false,
+            10,
+            3
+         ],
+         [
+          "door",
+          true,
+          18,
+          3
+         ],
+         [
+          "door",
+          true,
+          18,
+          5
+         ]
+      ],
+      "transitionTiles": [
+         [
+            "01-04",
+            18,
+            0,
+            18,
+            11
+         ],
+         [
+            "01-02",
+            9,
+            11,
+            11,
+            0
+         ],
+         [
+            "01-02",
+            10,
+            11,
+            12,
+            0
+         ]
+      ]
+   }
+}
